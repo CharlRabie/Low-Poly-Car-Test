@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: f0836b6b86d3d0f4c85f2f12256966c6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: Exhaust.1
+    100006: Exhaust.2
+    100008: Headlights
+    100010: Wheel.FL
+    100012: Wheel.FR
+    100014: Wheel.RL
+    100016: Wheel.RR
+    400000: //RootNode
+    400002: Body
+    400004: Exhaust.1
+    400006: Exhaust.2
+    400008: Headlights
+    400010: Wheel.FL
+    400012: Wheel.FR
+    400014: Wheel.RL
+    400016: Wheel.RR
+    2100000: Chrome.001
+    2100002: Rubber
+    2100004: Material.001
+    2100006: Chrome
+    2100008: Paint
+    2100010: Glass
+    2100012: indicator light
+    2100014: Brake light
+    2300000: Body
+    2300002: Exhaust.1
+    2300004: Exhaust.2
+    2300006: Headlights
+    2300008: Wheel.FL
+    2300010: Wheel.FR
+    2300012: Wheel.RL
+    2300014: Wheel.RR
+    3300000: Body
+    3300002: Exhaust.1
+    3300004: Exhaust.2
+    3300006: Headlights
+    3300008: Wheel.FL
+    3300010: Wheel.FR
+    3300012: Wheel.RL
+    3300014: Wheel.RR
+    4300000: Exhaust.2
+    4300002: Exhaust.1
+    4300004: Headlights
+    4300006: Wheel.RL
+    4300008: Wheel.FL
+    4300010: Wheel.FR
+    4300012: Wheel.RR
+    4300014: Body
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brake light
+    second: {fileID: 2100000, guid: 94c3324c6ee2f6945b6bb7014aadc55c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: 1beb4c44da257324fa5dd560c27edd44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome.001
+    second: {fileID: 2100000, guid: 70b44f8c698e65b4e918029b9785e9d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 5f37d6286699ebd4c8a6593b85b6d75d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 1f2f4e02724ff0a498292928100569eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint
+    second: {fileID: 2100000, guid: f171766b13ac41849964ccf431e3ad3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber
+    second: {fileID: 2100000, guid: 7d14fccc7faef1b4ebbfbe0472d3e86e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: indicator light
+    second: {fileID: 2100000, guid: c05b4b5e552d0334f8a46f3688bc33fe, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
